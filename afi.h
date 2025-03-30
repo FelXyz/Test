@@ -1,2 +1,2 @@
-lua(efi_load_besh)
+cfghddflua(efi_load_besh)
 qswrae
